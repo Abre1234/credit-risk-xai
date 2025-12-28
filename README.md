@@ -117,6 +117,7 @@ The model is deployed using **Gradio**, allowing users to:
 
 ```bash
 git clone https://github.com/Abre1234/credit-risk-xai.git
+```
 Open notebooks in Google Colab.
 Run notebooks in order:
 Copy code
