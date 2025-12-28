@@ -111,30 +111,27 @@ The model is deployed using **Gradio**, allowing users to:
 
 ---
 
-## 🧠 How to Run
-Open notebooks in Google Colab
+## 🚀 How to Run
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/Abre1234/credit-risk-xai.git
+Open notebooks in Google Colab.
 Run notebooks in order:
 Copy code
 
 01 → 02 → 03 → 04 → 05
-Optional: Launch Gradio app in Colab (05_explainability.ipynb)
+Optional: Launch the Gradio app in Colab (05_explainability.ipynb).
 📌 Use Cases
 Banking & Finance
 Credit Scoring Systems
 Loan Approval Automation
 Regulatory-compliant AI systems
-
 👤 Author
 Abraraw Ayal
 Data Science Student
 GitHub: https://github.com/Abre1234
 LinkedIn: https://www.linkedin.com/in/Abre1234
-
 ⭐ If you like this project
 Give it a ⭐ on GitHub and feel free to fork or contribute!
-
-🔜 Next Enhancements
-Deploy on Hugging Face Spaces
-Generate PDF credit decision 
-Add counterfactual explanations
-Build interactive dashboard
